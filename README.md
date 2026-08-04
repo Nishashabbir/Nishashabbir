@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Nishashabbir/Nishashabbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Nisha Shabbir
 
-Here are some ideas to get you started:
+### 💻 Full-Stack Developer | MERN | Python | AI | Building Real-World Web Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/NishaShabbir">
+    <img src="https://img.shields.io/github/followers/NishaShabbir?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/NishaShabbir?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View%20My%20Work-blue?style=for-the-badge" />
+  </a>
+</p>
+
+</div>
