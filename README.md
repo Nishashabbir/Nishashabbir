@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Hi, I'm Nisha Shabbir
+ Hi, I'm Nisha Shabbir
 
 Full-Stack Developer · React · Python · Flask · AI
 
@@ -14,21 +14,21 @@ Full-Stack Developer · React · Python · Flask · AI
 
 </div>
 
-🚀 About Me
+ About Me
 
 I'm a developer who enjoys turning ideas into functional web applications.
 
-💻 Building with React, JavaScript, Python & Flask
+ Building with React, JavaScript, Python & Flask
 
-🗄️ Working with MongoDB and REST APIs
+ Working with MongoDB and REST APIs
 
-🤖 Exploring AI integration in web applications
+ Exploring AI integration in web applications
 
-🎨 I care about clean interfaces and practical user experiences
+ I care about clean interfaces and practical user experiences
 
-🌱 Always learning, building, and improving
+ Always learning, building, and improving
 
-🛠️ Tech Stack
+ Tech Stack
 
 <div align="center">
 
@@ -36,7 +36,7 @@ I'm a developer who enjoys turning ideas into functional web applications.
 
 </div>
 
-📌 What I'm Working On
+ What I'm Working On
 
 ▸ Building full-stack web applications
 ▸ Improving React architecture and state management
@@ -44,7 +44,7 @@ I'm a developer who enjoys turning ideas into functional web applications.
 ▸ Exploring AI-powered features
 ▸ Learning better software architecture and deployment
 
-🌐 Connect With Me
+ Connect With Me
 
 <div align="center">
 
@@ -56,6 +56,6 @@ I'm a developer who enjoys turning ideas into functional web applications.
 
 <div align="center">
 
-💡 Build. Learn. Improve. Repeat.
+ Build. Learn. Improve. Repeat.
 
 </div>
