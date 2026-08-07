@@ -2,7 +2,7 @@
 
  Hi, I'm Nisha Shabbir
 
-Full-Stack Developer · React · Python · Flask · AI
+Full-Stack Developer · Javascript . React · Python · Flask · Sql . MongoDb . Open AI . Codex 
 
 <p>
   <i>Building clean, useful, and modern web applications.</i>
