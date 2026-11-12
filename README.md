@@ -43,4 +43,39 @@ I'm a developer working at the intersection of software development and AI autom
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
 </p>
 
-## What I'm Exploring
+## What I'm Exploring & Building
+
+- AI-powered business automation and workflow systems.
+- n8n integrations and multi-step AI workflows.
+- GoHighLevel CRM automation, lead management, and follow-up systems.
+- AI chatbots and intelligent conversational agents.
+- RAG-based applications and LLM-powered solutions.
+- Full-stack applications and backend API development.
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NishaShabbir&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishaShabbir&layout=compact&theme=transparent&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=NishaShabbir&theme=transparent&hide_border=true" />
+
+</div>
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/NishaShabbir">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+**Build. Automate. Innovate.**
+
+</div>
