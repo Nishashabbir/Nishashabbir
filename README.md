@@ -1,81 +1,74 @@
-# Hi, I'm Nisha Shabbir 👋
-
-### Full-Stack Developer | AI Automation Developer
-
 <div align="center">
 
-<i>Building modern web applications and intelligent automation systems.</i>
+<img src="assets/nisha-hero.gif" width="100%" alt="Nisha, a hoodie-wearing developer with headphones, surrounded by code and digital interfaces" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+%26+Workflow+Automation;GoHighLevel+%28GHL%29+Automation;Building+AI+Chatbots+%26+Agents;Exploring+n8n+%26+Agentic+AI" alt="Typing animation" />
+# NISHA SHABBIR
+
+### Full-Stack Developer · AI Automation Developer
+
+**I build web applications, intelligent chatbots, and automated business systems.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-171717?style=for-the-badge&logo=github)](https://github.com/NishaShabbir)
 
 </div>
 
 ---
 
-## About Me
+## `whoami` — A little about me
 
-I'm a developer working at the intersection of software development and AI automation. I enjoy building web applications, intelligent chatbots, and automated business systems that solve real-world problems.
+I'm a developer working across **full-stack development and AI automation**. I turn ideas into practical applications and connect tools, data, and AI to automate real business workflows.
 
-- Developing web applications using React, JavaScript, Python, and Flask.
-- Building AI-powered chatbots and conversational systems.
-- Working with **GoHighLevel (GHL)** for CRM setup, workflow automation, and business process automation.
-- Exploring **n8n** to design and build intelligent, multi-step automation workflows.
-- Working with LLMs, AI agents, RAG systems, and AI integrations.
-- Building REST APIs and working with SQL, PostgreSQL, and MongoDB.
+- Building responsive web applications and REST APIs.
+- Creating AI-powered chatbots and conversational experiences.
+- Developing CRM, lead-management, and follow-up automations with **GoHighLevel (GHL)**.
+- Exploring **n8n** for integrations, workflow orchestration, and AI-powered automation.
+- Experimenting with LLMs, RAG pipelines, and AI agents.
+- Working with relational and NoSQL databases.
 
-## Tech Stack & Tools
-
-**Frontend & Backend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask" />
-
-**Databases & Development Tools**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode" />
-
-**AI, Automation & Platforms**
-
-<p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/GoHighLevel-00BF8F?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
-</p>
-
-## What I'm Exploring & Building
-
-- AI-powered business automation and workflow systems.
-- n8n integrations and multi-step AI workflows.
-- GoHighLevel CRM automation, lead management, and follow-up systems.
-- AI chatbots and intelligent conversational agents.
-- RAG-based applications and LLM-powered solutions.
-- Full-stack applications and backend API development.
-
-## GitHub Statistics
+## `toolkit` — Technologies I work with
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NishaShabbir&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+**Development**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishaShabbir&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,postgres,mongodb,git,github,vscode&perline=6" />
 
-<img src="https://streak-stats.demolab.com?user=NishaShabbir&theme=transparent&hide_border=true" />
+**AI & Automation**
+
+<img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/GoHighLevel-CRM_Automation-00BF8F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-LLM_Applications-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 
 </div>
 
-## Let's Connect
+## `systems in progress` — What I'm building and exploring
+
+| Focus | Current direction |
+|---|---|
+| Web engineering | React applications, Python backends, REST APIs |
+| AI automation | n8n workflows, integrations, process automation |
+| GoHighLevel | CRM configuration, lead pipelines, follow-up workflows |
+| Conversational AI | Chatbots, LLM integrations, AI agents |
+| RAG systems | Document ingestion, embeddings, retrieval and Q&A |
+
+## `github stats` — Activity
 
 <div align="center">
 
-<a href="https://github.com/NishaShabbir">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NishaShabbir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishaShabbir&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=NishaShabbir&theme=tokyonight&hide_border=true" />
 
 </div>
 
+---
+
 <div align="center">
 
-**Build. Automate. Innovate.**
+### `while (curious) { build(); learn(); automate(); }`
+
+*Turning ideas into systems — one workflow at a time.*
 
 </div>
