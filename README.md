@@ -6,7 +6,7 @@
 
 ### Full-Stack Developer · AI Automation Developer
 
-**I build web applications, intelligent chatbots, and automated business systems.**
+**I build web applications, intelligent chatbots, and automated business systems **
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-171717?style=for-the-badge&logo=github)](https://github.com/NishaShabbir)
 
